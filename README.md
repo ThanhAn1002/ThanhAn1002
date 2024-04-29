@@ -29,7 +29,7 @@
   </a>
 </div>
 
-<h2 align="center">:money_with_wings: Freelancer Platform :money_with_wings:</h2>
+<h2 align="center">📬 Freelancer Platform 📬</h2>
 <div align="center">
 <a href="https://www.instagram.com/an_hoang102/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" width="36" height="36" alt="HTML5" /></a>
 <a href="https://www.tiktok.com/@an_hoang102" target="_blank" rel="noreferrer"><img src="https://banghieuminhkhang.com/upload/Thu-vien/logo-tiktok-vector-8.jpg" width="36" height="36" alt="HTML5" /></a>
