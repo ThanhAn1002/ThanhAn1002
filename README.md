@@ -9,7 +9,7 @@
 
 <div align="center">
 
-   I'm based in **Vietnamese** 🌍
+   I live in **Viet Nam** 🌍
  
    My major is **Software Engineering**🔭 
 
