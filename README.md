@@ -36,6 +36,7 @@
 <a href="https://discord.com/channels/1084526105693790318/1084526105693790320" target="_blank" rel="noreferrer"><img src="https://static-00.iconduck.com/assets.00/discord-icon-2048x2048-o5mluhz2.png" width="36" height="36" alt="HTML5" /></a>
 <a href="https://chat.zalo.me/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Icon_of_Zalo.svg/2048px-Icon_of_Zalo.svg.png" width="36" height="36" alt="HTML5" /></a>
 <a href="https://locket.camera/links/TPa12169yrcJaPXQ9" target="_blank" rel="noreferrer"><img src="https://ineqe.com/wp-content/uploads/2022/02/locket_app_icon-1024x1024.png" width="36" height="36" alt="HTML5" /></a>
+<a href="https://www.youtube.com/channel/UCIAsHPPvARdrwQRIJeVZ1yw" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.freepik.com/256/1384/1384060.png?semt=ais_hybrid" width="36" height="36" alt="HTML5" /></a>
 
 </div>
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
