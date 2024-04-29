@@ -34,10 +34,40 @@
 <a href="https://www.instagram.com/an_hoang102/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" width="36" height="36" alt="HTML5" /></a>
 <a href="https://www.tiktok.com/@an_hoang102" target="_blank" rel="noreferrer"><img src="https://banghieuminhkhang.com/upload/Thu-vien/logo-tiktok-vector-8.jpg" width="36" height="36" alt="HTML5" /></a>
 <a href="https://discord.com/channels/1084526105693790318/1084526105693790320" target="_blank" rel="noreferrer"><img src="https://static-00.iconduck.com/assets.00/discord-icon-2048x2048-o5mluhz2.png" width="36" height="36" alt="HTML5" /></a>
-<a href="https://chat.zalo.me/" target="_blank" rel="noreferrer"><img thanhtin4401&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-  </a>
+<a href="https://chat.zalo.me/" target="_blank" rel="noreferrer"><img src="https://static-00.iconduck.com/assets.00/discord-icon-2048x2048-o5mluhz2.png" width="36" height="36" alt="HTML5" /></a>
+    
+</div>
+/p>
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=nodejs,github,gitlab,express,firebase,mongodb" /><br>
+  <img src="https://skillicons.dev/icons?i=react,angular,electron,next,javascript,typescript,d3,redux,styledcomponents" /><br>
+    <img src="https://skillicons.dev/icons?i=jenkins,bootstrap,mui,mysql,html,css,sass,tailwind,vscode,figma,xd,ps,git" />
+</div>
+  <br/><br/><br/>
+<hr/>
+<br>
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  <br/><br/><br/>
 </div>
 
+<hr/>
+<br>
+<h2 align="center">🔥 GitHub Stats 🔥</h2>
+<!-- https://github.com/anuraghazra/github-readme-stats -->
+<br>
+<div align=center>
+  <a href="#" title="Thanhan1002">
+    <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanhtin4401&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+  </a>
+  <a href="#" title="Thanhan1002">
+    <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=Thanhan1002&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+  </a>
+</div>
 
 <h3 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Facebook!;I'm+always+down+to+collab+:)">
