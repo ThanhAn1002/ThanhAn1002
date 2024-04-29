@@ -11,11 +11,11 @@
 
 <div align="center">
 
- 🌍 I'm based in Vietnamese 
+ 🌍 I'm based in **Vietnamese** 
  
- 🔭 My major is Software Engineering
+ 🔭 My major is **Software Engineering**
 
- ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+ ⚡ **If you don't build your own dream, someone else will hire you to build theirs**
  
  </div>
 
