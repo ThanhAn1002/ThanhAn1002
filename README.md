@@ -15,7 +15,7 @@
  
  🔭 My major is **Software Engineering**
 
- ⚡ My Slogan**If you don't build your own dream, someone else will hire you to build theirs**
+ ⚡ My Slogan: **If you don't build your own dream, someone else will hire you to build theirs** ⚡
  
  </div>
 
