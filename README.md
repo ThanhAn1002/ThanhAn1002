@@ -11,7 +11,7 @@
 
    I'm live in **Viet Nam** 🌍
  
-   My major is **Software Engineering**🔭 
+   My major is **Software Engineering** 🔭 
 
  ⚡ My Slogan: **If you don't build your own dream, someone else will hire you to build theirs** ⚡
  
