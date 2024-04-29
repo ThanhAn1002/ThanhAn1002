@@ -5,7 +5,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+Everybody!+👋;+I'm+Hoang+Thanh+An;" />
 </h1>
 
-<h3 align="center">I'm studying Information Technology</h3>
+<h3 align="center">I'm studying Information Technology at Duy Tan University</h3>
 
 <br/>
 
@@ -15,7 +15,7 @@
  
  🔭 My major is **Software Engineering**
 
- ⚡ **If you don't build your own dream, someone else will hire you to build theirs**
+ ⚡ My Slogan**If you don't build your own dream, someone else will hire you to build theirs**
  
  </div>
 
