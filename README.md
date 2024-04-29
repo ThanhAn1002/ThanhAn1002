@@ -34,7 +34,7 @@
 <a href="https://www.instagram.com/an_hoang102/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" width="36" height="36" alt="HTML5" /></a>
 <a href="https://www.tiktok.com/@an_hoang102" target="_blank" rel="noreferrer"><img src="https://banghieuminhkhang.com/upload/Thu-vien/logo-tiktok-vector-8.jpg" width="36" height="36" alt="HTML5" /></a>
 <a href="https://discord.com/channels/1084526105693790318/1084526105693790320" target="_blank" rel="noreferrer"><img src="https://static-00.iconduck.com/assets.00/discord-icon-2048x2048-o5mluhz2.png" width="36" height="36" alt="HTML5" /></a>
-<a href="https://chat.zalo.me/" target="_blank" rel="noreferrer"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2MbaZ1WHE_kbc3amaj7svEY6gjbYCpwet1i1M84RwrQ&s" width="36" height="36" alt="HTML5" /></a>
+<a href="https://chat.zalo.me/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Icon_of_Zalo.svg/2048px-Icon_of_Zalo.svg.png" width="36" height="36" alt="HTML5" /></a>
     
 </div>
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
