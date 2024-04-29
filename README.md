@@ -9,9 +9,9 @@
 
 <div align="center">
 
- 🌍 I'm based in **Vietnamese** 
+   I'm based in **Vietnamese** 🌍
  
- 🔭 My major is **Software Engineering**
+   My major is **Software Engineering**🔭 
 
  ⚡ My Slogan: **If you don't build your own dream, someone else will hire you to build theirs** ⚡
  
