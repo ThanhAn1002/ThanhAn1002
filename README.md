@@ -39,7 +39,7 @@
 <a href="https://www.youtube.com/channel/UCIAsHPPvARdrwQRIJeVZ1yw" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.freepik.com/256/1384/1384060.png?semt=ais_hybrid" width="36" height="36" alt="HTML5" /></a>
 </div>
 <p align="center">
-  <img src="https://github.com/thanhtin4401/thanhtin4401/assets/85281544/a65ececb-7042-4a69-b9a6-71381c48b003" alt="giphy" />
+  <img src="https://i.pinimg.com/originals/ef/2d/b0/ef2db0885d94fd149a4b7914923bb2a3.gif" alt="giphy" width="600" height="300" />
 </p>
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
