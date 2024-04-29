@@ -36,7 +36,7 @@
 </div>
 
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif"width="200" height="200" alt="giphy"  />
+  <img src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif"width="600" height="400"  />
 </p>
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
