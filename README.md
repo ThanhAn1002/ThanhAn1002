@@ -9,7 +9,7 @@
 
 <div align="center">
 
-   I'm living in **Da Nang city, Viet Nam** 🌍
+   I'm living in **Da Nang city, Viet Nam** 🇻🇳
  
    My major is **Software Engineering** 🔭 
 
