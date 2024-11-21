@@ -34,7 +34,7 @@
 <a href="https://www.instagram.com/an_hoang102/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" width="36" height="36" alt="HTML5" /></a>
 <a href="https://www.tiktok.com/@an_hoang102" target="_blank" rel="noreferrer"><img src="https://freepnglogo.com/images/all_img/1691751429tiktok-icon-png.png" width="36" height="36" alt="HTML5" /></a>
 <a href="https://discord.gg/7KbzK8m4" target="_blank" rel="noreferrer"><img src="https://static-00.iconduck.com/assets.00/discord-icon-2048x2048-o5mluhz2.png" width="36" height="36" alt="HTML5" /></a>
-<a href="https://zalo.me/s/qrwallet" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Icon_of_Zalo.svg/2048px-Icon_of_Zalo.svg.png" width="36" height="36" alt="HTML5" /></a>
+<a href="tel: 0888100204" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/6815/6815116.png" width="36" height="36" alt="HTML5" /></a>
 <a href="https://locket.camera/links/TPa12169yrcJaPXQ9" target="_blank" rel="noreferrer"><img src="https://ineqe.com/wp-content/uploads/2022/02/locket_app_icon-1024x1024.png" width="36" height="36" alt="HTML5" /></a>
 <a href="https://www.youtube.com/channel/UCIAsHPPvARdrwQRIJeVZ1yw" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.freepik.com/256/1384/1384060.png?semt=ais_hybrid" width="36" height="36" alt="HTML5" /></a>
 </div>
