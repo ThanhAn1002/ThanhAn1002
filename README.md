@@ -32,7 +32,7 @@
 <h2 align="center">📬 Contact me 📬</h2>
 <div align="center">
 <a href="https://www.instagram.com/an_hoang102/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" width="36" height="36" alt="HTML5" /></a>
-<a href="https://www.tiktok.com/@an_hoang102" target="_blank" rel="noreferrer"><img src="https://cdn.pixabay.com/photo/2021/06/15/12/28/tiktok-6338429_1280.png" width="36" height="36" alt="HTML5" /></a>
+<a href="https://www.tiktok.com/@an_hoang102" target="_blank" rel="noreferrer"><img src="https://banner2.cleanpng.com/20190206/ror/kisspng-tiktok-video-musical-ly-youtube-vine-1713907999522.webp" width="36" height="36" alt="HTML5" /></a>
 <a href="https://discord.gg/7KbzK8m4" target="_blank" rel="noreferrer"><img src="https://static-00.iconduck.com/assets.00/discord-icon-2048x2048-o5mluhz2.png" width="36" height="36" alt="HTML5" /></a>
 <a href="https://chat.zalo.me/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Icon_of_Zalo.svg/2048px-Icon_of_Zalo.svg.png" width="36" height="36" alt="HTML5" /></a>
 <a href="https://locket.camera/links/TPa12169yrcJaPXQ9" target="_blank" rel="noreferrer"><img src="https://ineqe.com/wp-content/uploads/2022/02/locket_app_icon-1024x1024.png" width="36" height="36" alt="HTML5" /></a>
